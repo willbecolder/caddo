@@ -1,7 +1,6 @@
 {	
     "plugins": 
-        ["disqus"],	
-        ["github"],	
+        ["disqus", "github"],	
     "pluginsConfig": {	
         "disqus": {	
             "shortName": "willbecolder"	
