@@ -1,10 +1,1 @@
-
-{	
-    "plugins": 
-        ["disqus", "back-to-top-button"],	
-    "pluginsConfig": {	
-        "disqus": {	
-            "shortName": "willbecolder"	
-        }
-    }
-}
+{"plugins":["disqus","back-to-top-button"],"pluginsConfig":{"disqus":{"shortName":"willbecolder"}},"dependencies":{"gitbook-plugin-back-to-top-button":"^0.1.4"}}
