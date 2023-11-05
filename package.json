@@ -1,1 +1,10 @@
 
+{	
+    "plugins": 
+        ["disqus", "back-to-top-button"],	
+    "pluginsConfig": {	
+        "disqus": {	
+            "shortName": "willbecolder"	
+        }
+    }
+}
