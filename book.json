@@ -1,6 +1,6 @@
 {	
     "plugins": 
-        ["disqus", "back-to-top-button"],	
+        ["disqus", "back-to-top-button","github-buttons"],	
     "pluginsConfig": {	
         "disqus": {	
             "shortName": "willbecolder"	
