@@ -1,8 +1,8 @@
 
-{"title": "Caddoooo",
+{
+"title": "Caddoooo",
 "version": "1",
 "description": "caddo?",
-"author": "willbecolder",
 "plugins": ["disqus"],
 "pluginsConfig": {
     "disqus": {
