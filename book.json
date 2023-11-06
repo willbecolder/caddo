@@ -1,16 +1,9 @@
 {	
     "plugins": 
-        ["disqus", "back-to-top-button","github-buttons"],	
+        ["disqus", "back-to-top-button"],	
     "pluginsConfig": {	
         "disqus": {	
             "shortName": "willbecolder"	
-        },
-        "github-buttons": {
-            "repo": "https://github.com/willbecolder/caddo",
-            "types": [
-                "star"
-            ],
-            "size": "small"
         }
     }
 }

@@ -3,5 +3,8 @@
     "gitbook-plugin-back-to-top-button": "^0.1.4",
     "gitbook-plugin-disqus": "^1.0.1",
     "gitbook-plugin-github-buttons": "^3.0.0"
+  },
+  "devDependencies": {
+    "graceful-fs": "^4.2.11"
   }
 }
